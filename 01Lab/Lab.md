@@ -2,6 +2,8 @@
 
 - [Lab 01](#lab-01)
   - [Ownership](#ownership)
+  - [- Git URL for this lab](#--git-url-for-this-lab)
+  - [**_NOTE_**: Please note that this repository is private. You need to provide me with your github account to provide you access.](#note-please-note-that-this-repository-is-private-you-need-to-provide-me-with-your-github-account-to-provide-you-access)
   - [Course](#course)
     - [XCASE Diagram](#xcase-diagram)
     - [SQL Script](#sql-script)
@@ -32,6 +34,11 @@
 ## Ownership
 - Student: Marius Vintila
 - Group: 341C5
+- [Git Repo](https://github.com/Mr-Vinti/SCAD_Labs)
+- [Git URL for this lab](https://github.com/Mr-Vinti/SCAD_Labs/tree/master/01Lab)
+---
+**_NOTE_**: Please note that this repository is private. You need to provide me with your github account to provide you access.
+---
 
 ---
 ## Course
